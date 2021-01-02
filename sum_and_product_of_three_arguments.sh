@@ -1,6 +1,6 @@
 #!/bin/bash
 
-function get_sum_of_four_numbers {
+function get_sum_of_three_arguments {
 
   local result=0
 
@@ -9,7 +9,7 @@ function get_sum_of_four_numbers {
   echo $result;
 }
 
-function get_product_of_four_numbers {
+function get_product_of_three_arguments {
 
   local result=1
   
