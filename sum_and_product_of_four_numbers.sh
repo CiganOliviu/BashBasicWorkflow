@@ -1,3 +1,5 @@
+#!/bin/bash
+
 function get_sum_of_four_numbers {
 
   local result=0
